@@ -1,5 +1,4 @@
 "# atividade" 
-import java.sql.Savepoint;
 import java.util.Scanner;
 
 public class att {
